@@ -1,8 +1,7 @@
 module github.com/nullswan/nomi
 
 go 1.23.1
-
-toolchain go1.23.2
+toolchain go1.23.6
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
@@ -20,13 +19,13 @@ require (
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/muesli/cancelreader v0.2.2
 	github.com/muesli/termenv v0.15.3-0.20240618155329-98d742f6907a
-	github.com/ollama/ollama v0.4.1
+	github.com/ollama/ollama v0.5.12
 	github.com/playwright-community/playwright-go v0.4802.0
 	github.com/robotn/gohook v0.41.0
 	github.com/sashabaranov/go-openai v1.36.0
 	github.com/spf13/cobra v1.8.1
-	golang.org/x/sync v0.9.0
-	golang.org/x/term v0.26.0
+	golang.org/x/sync v0.10.0
+	golang.org/x/term v0.27.0
 	gopkg.in/yaml.v2 v2.4.0
 	modernc.org/sqlite v1.33.1
 )
@@ -44,6 +43,7 @@ require (
 	github.com/dsnet/compress v0.0.2-0.20210315054119-f66993602bf5 // indirect
 	github.com/ebitengine/oto/v3 v3.3.1 // indirect
 	github.com/ebitengine/purego v0.8.1 // indirect
+	github.com/emirpasic/gods/v2 v2.0.0-alpha // indirect
 	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -74,7 +74,7 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.3 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
 	golang.org/x/net v0.30.0 // indirect
-	golang.org/x/sys v0.27.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/tools v0.26.0 // indirect
 	modernc.org/gc/v3 v3.0.0-20240107210532-573471604cb6 // indirect
 	modernc.org/libc v1.55.3 // indirect
