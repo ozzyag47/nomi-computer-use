@@ -26,7 +26,7 @@ require (
 	github.com/sashabaranov/go-openai v1.36.0
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/sync v0.9.0
-	golang.org/x/term v0.26.0
+	golang.org/x/term v0.27.0
 	gopkg.in/yaml.v2 v2.4.0
 	modernc.org/sqlite v1.33.1
 )
@@ -44,7 +44,7 @@ require (
 	github.com/dsnet/compress v0.0.2-0.20210315054119-f66993602bf5 // indirect
 	github.com/ebitengine/oto/v3 v3.3.1 // indirect
 	github.com/ebitengine/purego v0.8.1 // indirect
-	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.4 // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/css v1.0.1 // indirect
@@ -73,8 +73,8 @@ require (
 	github.com/yuin/goldmark v1.7.4 // indirect
 	github.com/yuin/goldmark-emoji v1.0.3 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
-	golang.org/x/net v0.30.0 // indirect
-	golang.org/x/sys v0.27.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/tools v0.26.0 // indirect
 	modernc.org/gc/v3 v3.0.0-20240107210532-573471604cb6 // indirect
 	modernc.org/libc v1.55.3 // indirect
